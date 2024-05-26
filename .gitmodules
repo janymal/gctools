@@ -1,0 +1,3 @@
+[submodule "subprojects/phosg"]
+	path = subprojects/phosg
+	url = git@github.com:janymal/phosg.git
